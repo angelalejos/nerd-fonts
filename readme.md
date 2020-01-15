@@ -94,6 +94,9 @@ _If you..._
 * **Monospaced (fixed-pitch, fixed-width)** _or_ **double-width (non-monospaced)** glyphs version of each font
   * This refers to the Nerd Font glyphs themselves not necessarily the Font as a whole
 * A Developer/Contributor provided [bash script](#gotta-patch-em-all) to re-patch all the fonts
+* icon terminal settings in Visual Studio Code
+   "terminal.integrated.fontFamily": "'MesloLGM Nerd Font'" 
+   "terminal.integrated.fontSize": 14
 
 
 ## Glyph Sets
